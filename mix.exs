@@ -29,7 +29,7 @@ defmodule CredoElixirBenchmark.Mixfile do
   # Type "mix help deps" for more examples and options
   defp deps do
     [
-      {:credo, github: "rrrene/github"}
+      {:credo, github: "rrrene/credo"}
     ]
   end
 end
