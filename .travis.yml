@@ -8,4 +8,4 @@ before_script:
   - mkdir tmp
   - git clone https://github.com/elixir-lang/elixir.git tmp/elixir --branch v1.4
 script:
-  - mix credo tmp/elixir --only readability
+  - mix credo tmp/elixir/lib --only readability
