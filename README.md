@@ -1,4 +1,4 @@
-# CredoElixirBenchmark
+# CredoElixirBenchmark [![Build Status](https://travis-ci.org/rrrene/credo-elixir-benchmark.svg?branch=master)](https://travis-ci.org/rrrene/credo-elixir-benchmark)
 
 **TODO: Add description**
 
